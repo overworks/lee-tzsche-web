@@ -1,9 +1,20 @@
 {
-    "name": "laravel/laravel",
+    "name": "minhyung/lee-tzsche",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Port Lee-tzsche2 to Laravel",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Minhyung Park",
+            "email": "urlinee@gmail.com",
+            "homepage": "https://github.com/overworks",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "urlinee@gmail.com"
+    },
     "require": {
         "php": "^8.1",
         "guzzlehttp/guzzle": "^7.2",
